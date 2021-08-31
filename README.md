@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @panditasagar01
-- 👀 I’m interested in Coding, solving complex problem and build products which help the humanity
+- 👋 Hi, I’m Sagar Pandita
+- 👀 I’m interested in Coding, solving complex problem and building software products which help the humanity
 - 🌱 I’m currently learning UI - React Js
 - 📫 How to reach me - panditasagar01@gmail.com
 
