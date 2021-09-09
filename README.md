@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Pandita
 - 👀 I’m interested in Coding, solving complex problem and building software products which help the humanity
-- 🌱 I’m currently learning UI - React Js
+- 🌱 I’m currently learning UI
 - 📫 How to reach me - panditasagar01@gmail.com
 
 <!---
